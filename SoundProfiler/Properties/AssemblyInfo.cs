@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("SoundProfiler")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Thomas Wagner")]
 [assembly: AssemblyProduct("SoundProfiler")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright ©  2018 by Thomas Wagner")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
